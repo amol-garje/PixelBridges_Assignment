@@ -139,6 +139,10 @@ body{
     box-shadow: 30px 20px 70px 3px black;
 
 }
+#wek{
+    margin-left: -55px;
+    font-size: 30px;
+}
 .nm{
   width: 40%;
 }
